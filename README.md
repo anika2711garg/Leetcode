@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anika2711garg/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anika2711garg/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anika2711garg/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
