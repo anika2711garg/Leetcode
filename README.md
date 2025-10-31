@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
 ## Array
 |  |
 | ------- |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
