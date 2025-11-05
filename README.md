@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anika2711garg/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anika2711garg/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
