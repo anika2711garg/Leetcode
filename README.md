@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
+| [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
