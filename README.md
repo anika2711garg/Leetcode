@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anika2711garg/Leetcode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/anika2711garg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anika2711garg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika2711garg/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anika2711garg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anika2711garg/Leetcode/tree/master/0860-lemonade-change) |
