@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anika2711garg/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika2711garg/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anika2711garg/Leetcode/tree/master/0860-lemonade-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
