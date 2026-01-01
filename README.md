@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anika2711garg/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/anika2711garg/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/anika2711garg/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anika2711garg/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/anika2711garg/Leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
