@@ -3,9 +3,10 @@ class Solution {
         int profit = 0;
         int mxProfitSoFar = 0;
         int res = 0;
-        for(int i = 0 ; i < customers.length() ; ++i){
+        for(int i = 0 ; i < customers.length() ; i++){
             char ch = customers.charAt(i);
-            if(ch == 'Y')++profit;
+            if(ch == 'Y')
+            profit++;
             else profit--;
             if(profit > mxProfitSoFar){
                 mxProfitSoFar = profit;
