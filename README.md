@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/anika2711garg/Leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anika2711garg/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
