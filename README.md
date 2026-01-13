@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/anika2711garg/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anika2711garg/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3453-separate-squares-i](https://github.com/anika2711garg/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anika2711garg/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anika2711garg/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3453-separate-squares-i](https://github.com/anika2711garg/Leetcode/tree/master/3453-separate-squares-i) |
 ## Matrix
 |  |
 | ------- |
