@@ -6,7 +6,8 @@ class Solution {
         double low = Double.MAX_VALUE;
         double high = Double.MIN_VALUE;
 
-        for (int[] s : squares) {
+        for (int[] s : squares) 
+        {
             double y = s[1];
             double l = s[2];
             totalArea += l * l;
