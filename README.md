@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anika2711garg/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anika2711garg/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anika2711garg/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anika2711garg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anika2711garg/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika2711garg/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
