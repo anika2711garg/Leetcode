@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/anika2711garg/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anika2711garg/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/anika2711garg/Leetcode/tree/master/1390-four-divisors) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/anika2711garg/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1975-maximum-matrix-sum](https://github.com/anika2711garg/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anika2711garg/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/anika2711garg/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/anika2711garg/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Recursion
 |  |
