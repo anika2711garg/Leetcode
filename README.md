@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anika2711garg/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/anika2711garg/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/anika2711garg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anika2711garg/Leetcode/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/anika2711garg/Leetcode/tree/master/0135-candy) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/anika2711garg/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anika2711garg/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/anika2711garg/Leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
