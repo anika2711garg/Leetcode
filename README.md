@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/anika2711garg/Leetcode/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anika2711garg/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika2711garg/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anika2711garg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
@@ -306,10 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/anika2711garg/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anika2711garg/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anika2711garg/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anika2711garg/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anika2711garg/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
