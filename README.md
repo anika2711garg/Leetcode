@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anika2711garg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anika2711garg/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/anika2711garg/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika2711garg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anika2711garg/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anika2711garg/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anika2711garg/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
