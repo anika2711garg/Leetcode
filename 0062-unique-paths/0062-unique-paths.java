@@ -5,7 +5,7 @@ class Solution {
         {
             dp[i][0] = 1;
         }
-         for( int j = 0; j < n; j++)
+        for( int j = 0; j < n; j++)
         {
             dp[0][j] = 1;
         }
@@ -15,9 +15,7 @@ class Solution {
             {
                 dp[i][j] = dp[i-1][j] + dp[i][j-1];
             }
-
         }
-        return dp[m-1][n-1];
-        
+        return dp[m-1][n-1];   
     }
 }
