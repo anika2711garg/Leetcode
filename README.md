@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anika2711garg/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anika2711garg/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anika2711garg/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anika2711garg/Leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/anika2711garg/Leetcode/tree/master/0394-decode-string) |
 ## Union Find
 |  |
