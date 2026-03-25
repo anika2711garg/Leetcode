@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/anika2711garg/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anika2711garg/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
