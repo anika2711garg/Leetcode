@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/anika2711garg/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/anika2711garg/Leetcode/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/anika2711garg/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anika2711garg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/anika2711garg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anika2711garg/Leetcode/tree/master/0048-rotate-image) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/anika2711garg/Leetcode/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/anika2711garg/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
 ## Sorting
