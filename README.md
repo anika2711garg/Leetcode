@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/anika2711garg/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anika2711garg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anika2711garg/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika2711garg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anika2711garg/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/anika2711garg/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anika2711garg/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anika2711garg/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
