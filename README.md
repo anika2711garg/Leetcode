@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anika2711garg/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anika2711garg/Leetcode/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/anika2711garg/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/anika2711garg/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/anika2711garg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anika2711garg/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anika2711garg/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/anika2711garg/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/anika2711garg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anika2711garg/Leetcode/tree/master/0322-coin-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/anika2711garg/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/anika2711garg/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
