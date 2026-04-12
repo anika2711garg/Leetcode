@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/anika2711garg/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/anika2711garg/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/anika2711garg/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anika2711garg/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anika2711garg/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anika2711garg/Leetcode/tree/master/1390-four-divisors) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anika2711garg/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anika2711garg/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/anika2711garg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anika2711garg/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
