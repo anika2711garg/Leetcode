@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anika2711garg/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/anika2711garg/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anika2711garg/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/anika2711garg/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
