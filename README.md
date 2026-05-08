@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anika2711garg/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anika2711garg/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika2711garg/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/anika2711garg/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anika2711garg/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/anika2711garg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anika2711garg/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anika2711garg/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/anika2711garg/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Backtracking
