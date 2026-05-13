@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/anika2711garg/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anika2711garg/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anika2711garg/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anika2711garg/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anika2711garg/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/anika2711garg/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika2711garg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anika2711garg/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anika2711garg/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/anika2711garg/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/anika2711garg/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/anika2711garg/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anika2711garg/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anika2711garg/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anika2711garg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/anika2711garg/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/anika2711garg/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
