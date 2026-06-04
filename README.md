@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/anika2711garg/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3931-check-adjacent-digit-differences](https://github.com/anika2711garg/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
