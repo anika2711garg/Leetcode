@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/anika2711garg/Leetcode/tree/master/3379-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3921-score-validator](https://github.com/anika2711garg/Leetcode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/anika2711garg/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/anika2711garg/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3921-score-validator](https://github.com/anika2711garg/Leetcode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/anika2711garg/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
