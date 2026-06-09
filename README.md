@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/anika2711garg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anika2711garg/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3689-maximum-total-subarray-value-i](https://github.com/anika2711garg/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/anika2711garg/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3921-score-validator](https://github.com/anika2711garg/Leetcode/tree/master/3921-score-validator) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anika2711garg/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/anika2711garg/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
