@@ -17,7 +17,7 @@ public class Solution {
         }
         ListNode t1 = headA;
         ListNode t2 = headB;
-
+        
         while(t1 != t2)
         {
             if(t1 == null)
@@ -26,9 +26,9 @@ public class Solution {
             }
             else
             {
-                t1 = t1.next;;
+                t1 = t1.next;
             }
-            if( t2 == null)
+            if(t2 == null)
             {
                 t2 = headA;
             }
@@ -36,7 +36,9 @@ public class Solution {
             {
                 t2 = t2.next;
             }
+
         }
+
         return t1;
     }
 }
