@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anika2711garg/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/anika2711garg/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anika2711garg/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anika2711garg/Leetcode/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anika2711garg/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anika2711garg/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/anika2711garg/Leetcode/tree/master/0860-lemonade-change) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anika2711garg/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1975-maximum-matrix-sum](https://github.com/anika2711garg/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/anika2711garg/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anika2711garg/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/anika2711garg/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/anika2711garg/Leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anika2711garg/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anika2711garg/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/anika2711garg/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anika2711garg/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anika2711garg/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anika2711garg/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
 ## Brainteaser
