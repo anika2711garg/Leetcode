@@ -50,6 +50,5 @@ class Solution {
         secondHalf = secondHalf.next;  
         }
         return true; 
-    }
-    
+    }    
 }
