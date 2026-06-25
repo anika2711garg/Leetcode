@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/anika2711garg/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anika2711garg/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/anika2711garg/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3838-weighted-word-mapping](https://github.com/anika2711garg/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/anika2711garg/Leetcode/tree/master/3921-score-validator) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anika2711garg/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/anika2711garg/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Backtracking
 |  |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anika2711garg/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Queue
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/anika2711garg/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/anika2711garg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/anika2711garg/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -509,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/anika2711garg/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3583-count-special-triplets](https://github.com/anika2711garg/Leetcode/tree/master/3583-count-special-triplets) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -639,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/anika2711garg/Leetcode/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anika2711garg/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/anika2711garg/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/anika2711garg/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Memoization
 |  |
 | ------- |
