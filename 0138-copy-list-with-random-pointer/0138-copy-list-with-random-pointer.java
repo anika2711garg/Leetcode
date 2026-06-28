@@ -15,7 +15,6 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
-
     // list is empty
         if (head == null)
             return null;
