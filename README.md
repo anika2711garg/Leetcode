@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anika2711garg/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anika2711garg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika2711garg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anika2711garg/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anika2711garg/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/anika2711garg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
@@ -811,4 +814,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anika2711garg/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
