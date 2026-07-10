@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/anika2711garg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anika2711garg/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/anika2711garg/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/anika2711garg/Leetcode/tree/master/3453-separate-squares-i) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anika2711garg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anika2711garg/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/anika2711garg/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/anika2711garg/Leetcode/tree/master/1871-jump-game-vii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika2711garg/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/anika2711garg/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/anika2711garg/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/anika2711garg/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/anika2711garg/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/anika2711garg/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anika2711garg/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anika2711garg/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anika2711garg/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/anika2711garg/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/anika2711garg/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anika2711garg/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/anika2711garg/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -629,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anika2711garg/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/anika2711garg/Leetcode/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/anika2711garg/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/anika2711garg/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -659,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anika2711garg/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/anika2711garg/Leetcode/tree/master/3453-separate-squares-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anika2711garg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anika2711garg/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anika2711garg/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
@@ -798,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/anika2711garg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anika2711garg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anika2711garg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anika2711garg/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/anika2711garg/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
