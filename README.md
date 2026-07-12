@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/anika2711garg/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anika2711garg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Hash Table
 |  |
@@ -836,10 +838,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/anika2711garg/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/anika2711garg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
+| [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anika2711garg/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
