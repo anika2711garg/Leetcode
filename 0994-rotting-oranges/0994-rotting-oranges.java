@@ -4,8 +4,7 @@ class Solution {
         int m = grid[0].length;
         Queue<int[]> q = new LinkedList<>();
         int fresh = 0;
-
-        for( int i = 0; i < n; i++)
+      for( int i = 0; i < n; i++)
         {
             for( int j = 0; j < m; j++)
             {
@@ -53,18 +52,13 @@ class Solution {
                 min++;
             }
         }
-
-           if (fresh == 0) 
+   if (fresh == 0) 
            {
            return min;
                } 
                else
                 {
     return -1;
-}
-
-
-        
-        
+}       
     }
 }
