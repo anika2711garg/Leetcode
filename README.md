@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/anika2711garg/Leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anika2711garg/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/anika2711garg/Leetcode/tree/master/0402-remove-k-digits) |
+| [0686-repeated-string-match](https://github.com/anika2711garg/Leetcode/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anika2711garg/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/anika2711garg/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika2711garg/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -884,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anika2711garg/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/anika2711garg/Leetcode/tree/master/0460-lfu-cache) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/anika2711garg/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
