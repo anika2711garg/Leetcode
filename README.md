@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/anika2711garg/Leetcode/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anika2711garg/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/anika2711garg/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anika2711garg/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika2711garg/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/anika2711garg/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1871-jump-game-vii](https://github.com/anika2711garg/Leetcode/tree/master/1871-jump-game-vii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/anika2711garg/Leetcode/tree/master/0396-rotate-function) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika2711garg/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/anika2711garg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anika2711garg/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/anika2711garg/Leetcode/tree/master/1340-jump-game-v) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1871-jump-game-vii](https://github.com/anika2711garg/Leetcode/tree/master/1871-jump-game-vii) |
