@@ -139,7 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
-| [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anika2711garg/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -151,7 +150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
-| [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -182,7 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anika2711garg/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/anika2711garg/Leetcode/tree/master/0113-path-sum-ii) |
-| [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anika2711garg/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -379,7 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anika2711garg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/anika2711garg/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
-| [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/anika2711garg/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anika2711garg/Leetcode/tree/master/0225-implement-stack-using-queues) |
