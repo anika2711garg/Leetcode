@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anika2711garg/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anika2711garg/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/anika2711garg/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anika2711garg/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/anika2711garg/Leetcode/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/anika2711garg/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anika2711garg/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/anika2711garg/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/anika2711garg/Leetcode/tree/master/0733-flood-fill) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/anika2711garg/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/anika2711garg/Leetcode/tree/master/1306-jump-game-iii) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anika2711garg/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anika2711garg/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/anika2711garg/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anika2711garg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/anika2711garg/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anika2711garg/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/anika2711garg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -524,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/anika2711garg/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/anika2711garg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/anika2711garg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
