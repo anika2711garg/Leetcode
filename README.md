@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anika2711garg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/anika2711garg/Leetcode/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/anika2711garg/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anika2711garg/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anika2711garg/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anika2711garg/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anika2711garg/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anika2711garg/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika2711garg/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anika2711garg/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anika2711garg/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/anika2711garg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/anika2711garg/Leetcode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anika2711garg/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anika2711garg/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/anika2711garg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/anika2711garg/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika2711garg/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anika2711garg/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anika2711garg/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/anika2711garg/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
