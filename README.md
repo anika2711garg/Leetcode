@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anika2711garg/Leetcode/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/anika2711garg/Leetcode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anika2711garg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anika2711garg/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anika2711garg/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anika2711garg/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/anika2711garg/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anika2711garg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/anika2711garg/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/anika2711garg/Leetcode/tree/master/0704-binary-search) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/anika2711garg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anika2711garg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anika2711garg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/anika2711garg/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/anika2711garg/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anika2711garg/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
