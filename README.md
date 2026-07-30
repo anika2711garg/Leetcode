@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anika2711garg/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2769-find-the-maximum-achievable-number](https://github.com/anika2711garg/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/anika2711garg/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anika2711garg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anika2711garg/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/anika2711garg/Leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anika2711garg/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/anika2711garg/Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anika2711garg/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anika2711garg/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anika2711garg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anika2711garg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/anika2711garg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anika2711garg/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/anika2711garg/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anika2711garg/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/anika2711garg/Leetcode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anika2711garg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anika2711garg/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anika2711garg/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anika2711garg/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
