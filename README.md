@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anika2711garg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/anika2711garg/Leetcode/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/anika2711garg/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anika2711garg/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anika2711garg/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anika2711garg/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anika2711garg/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/anika2711garg/Leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/anika2711garg/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/anika2711garg/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/anika2711garg/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/anika2711garg/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/anika2711garg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anika2711garg/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/anika2711garg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anika2711garg/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/anika2711garg/Leetcode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/anika2711garg/Leetcode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/anika2711garg/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/anika2711garg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anika2711garg/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anika2711garg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/anika2711garg/Leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/anika2711garg/Leetcode/tree/master/0486-predict-the-winner) |
 ## Union Find
 |  |
 | ------- |
@@ -1027,4 +1031,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anika2711garg/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/anika2711garg/Leetcode/tree/master/0686-repeated-string-match) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anika2711garg/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
